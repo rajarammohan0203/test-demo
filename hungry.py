@@ -9,3 +9,7 @@ else:
     if thirsty=="yes"
     print("drink water")
     print("drink soda")
+    print("lemon soda")
+
+    print("mint soda")
+
