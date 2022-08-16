@@ -10,6 +10,6 @@ else:
     print("drink water")
     print("drink soda")
     print("lemon soda")
-
+    print("salt soda")
     print("mint soda")
 
